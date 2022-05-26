@@ -12,6 +12,7 @@ package sheridan.syst;
 public class Test {
   public static void main (String[] args) {
    String helloe; 
+   int i = 0;
   }
 
 }
